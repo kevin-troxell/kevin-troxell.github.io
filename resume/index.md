@@ -1,7 +1,7 @@
 ---
-layout: resume
+layout: page
 title: Resume
-excerpt: "My Resume"
+date: 2022-10-27
 comments: false
 ---
 
