@@ -4,6 +4,7 @@ title: Resume
 excerpt: "My Resume"
 comments: false
 ---
+
 <p style="text-align: center; line-height: 1;"><strong>Kevin Troxell</strong></p>
 <p style="text-align: center; line-height: 1;">Email: kevin.a.troxell@gmail.com │ Phone: 650-714-8093</p>
 <p style="line-height: 1;"><strong><u>WORK EXPERIENCE</u></strong></p>
