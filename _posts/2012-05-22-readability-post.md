@@ -14,6 +14,6 @@ Choosing a bank partner is an important part of building a financial platform. I
 
 The question is, how do you choose a Bank? Do you go with established finbank players like Cross River, Evolve Bank and Trust, and WebBank? Or do you go with a look-a-like? Use the tool below to explore similar banks to your selection. 
 
-<iframe height="400" width="100%" frameborder="no" src="https://kevin-troxell.shinyapps.io/market-landscape/?_ga=2.131989830.814221599.1666987212-2006745619.1666987212"> </iframe>
+<iframe height="800" width="100%" frameborder="no" src="https://kevin-troxell.shinyapps.io/market-landscape/?_ga=2.131989830.814221599.1666987212-2006745619.1666987212"> </iframe>
 
 
